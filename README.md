@@ -13,7 +13,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-3a3a3a?style=flat-square&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-3a3a3a?style=flat-square&logo=powerbi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-3a3a3a?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-3a3a3a?style=flat-square&logo=microsoftazure&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8a8a8a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnurajrawal)
 [![Email](https://img.shields.io/badge/Email-8a8a8a?style=flat-square&logo=gmail&logoColor=white)](mailto:vishnuraj.rawal@gmail.com)
