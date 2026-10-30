@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Vishnu Raj Rawal, Business Analyst">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1c1c1c"/>
+      <stop offset="1" stop-color="#2e2e2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="260" rx="14" fill="url(#bg)"/>
+  <!-- subtle chart motif -->
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1">
+    <line x1="0" y1="65" x2="1000" y2="65"/>
+    <line x1="0" y1="130" x2="1000" y2="130"/>
+    <line x1="0" y1="195" x2="1000" y2="195"/>
+  </g>
+  <g fill="#ffffff" fill-opacity="0.08">
+    <rect x="720" y="150" width="28" height="70" rx="3"/>
+    <rect x="762" y="120" width="28" height="100" rx="3"/>
+    <rect x="804" y="135" width="28" height="85" rx="3"/>
+    <rect x="846" y="85" width="28" height="135" rx="3"/>
+    <rect x="888" y="55" width="28" height="165" rx="3"/>
+  </g>
+  <polyline points="734,140 776,108 818,124 860,70 902,42" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="118" font-family="Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#f2f2f2" letter-spacing="1">Vishnu Raj Rawal</text>
+  <rect x="64" y="136" width="64" height="3" fill="#9a9a9a"/>
+  <text x="64" y="176" font-family="Helvetica, Arial, sans-serif" font-size="22" fill="#bdbdbd" letter-spacing="3">BUSINESS ANALYST  /  DATA  &amp;  MARKETS</text>
+  <text x="64" y="210" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#8a8a8a">Python  ·  Power BI  ·  Excel  ·  Delhi, India</text>
+</svg>
