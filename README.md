@@ -46,9 +46,6 @@ Early-career business analyst who turns raw data into clear, actionable insight.
 
 ## Experience
 
-**Business Development Intern, CreateX Media** &nbsp;·&nbsp; *Oct 2026 – Present*
-Supports international lead generation for a strategic media and digital marketing firm that helps founders, doctors, coaches, and brands build their online presence.
-
 **R&D Associate, FinSec (Finance & Securities Cell), VIPS** &nbsp;·&nbsp; *Sep 2026 – Present*
 Analyzes Oracle's shift from software provider to AI infrastructure services, runs fundamental and price-action studies on Tata Group equities, and drafts market briefs for team planning.
 
